@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#F3C969;">Md Jannatul Ferdhous Emon</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Competitive+Programmer;Open+Source+Contributor;Lifelong+Learner+%F0%9F%92%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Competitive+Programmer;Traveller+✈️🌍🧳;Lifelong+Learner+%F0%9F%92%AD" alt="Typing SVG" />
 </p>
 
 ---
