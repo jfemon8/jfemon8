@@ -11,8 +11,6 @@
 ### 👨‍💻 About Me
 
 🎓 **CSE Graduate** from the University of Barishal  
-<!--🌱 Currently building **English Janala** – a vocab learning app  
-🌐 Designing **Mottaleb Bostralay** – a fashion e-commerce platform --> 
 👨‍💻 Love solving problems – **1000+ solved**, 100+ contests  
 💬 Always curious about tech, growth, and new ideas  
 🌍 Based in Gaibandha, Bangladesh
