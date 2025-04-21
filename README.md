@@ -11,8 +11,8 @@
 ### 👨‍💻 About Me
 
 🎓 **CSE Graduate** from the University of Barishal  
-🌱 Currently building **English Janala** – a vocab learning app  
-🌐 Designing **Mottaleb Bostralay** – a fashion e-commerce platform  
+<!--🌱 Currently building **English Janala** – a vocab learning app  
+🌐 Designing **Mottaleb Bostralay** – a fashion e-commerce platform --> 
 👨‍💻 Love solving problems – **1000+ solved**, 100+ contests  
 💬 Always curious about tech, growth, and new ideas  
 🌍 Based in Gaibandha, Bangladesh
@@ -21,7 +21,7 @@
 
 ### 🚀 Tech Stack & Tools
 
-![Languages](https://skillicons.dev/icons?i=cpp,python,php,html,css,js,sql)
+![Languages](https://skillicons.dev/icons?i=cpp,python,php,html,css,js,mysql)
 ![Frameworks](https://skillicons.dev/icons?i=tailwind,bootstrap,django,react)
 ![Tools](https://skillicons.dev/icons?i=vscode,git,github,figma)
 
@@ -85,6 +85,11 @@
 
 <p align="left">
   <a href="mailto:jfemon8@gmail.com"><img src="https://img.shields.io/badge/Email-jfemon8%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://codeforces.com/profile/EmonKhan"><img src="https://img.shields.io/badge/Codeforces-jfemon8-1f8acb?style=for-the-badge&logo=codeforces"></a>
+  <a href="https://www.codechef.com/users/jfemon"><img src="https://img.shields.io/badge/CodeChef-jfemon8-5a2f8a?style=for-the-badge&logo=codechef"></a>
+  <a href="https://www.hackerrank.com/profile/jfemon8"><img src="https://img.shields.io/badge/HackerRank-jfemon8-2EC866?style=for-the-badge&logo=hackerrank"></a>
+  <a href="https://vjudge.net/user/jfemon"><img src="https://img.shields.io/badge/VJudge-jfemon8-64A4FB?style=for-the-badge&logo=vjudge"></a>
+  <a href="https://www.facebook.com/jfemon"><img src="https://img.shields.io/badge/Facebook-jfemon8-1877F2?style=for-the-badge&logo=facebook"></a>
   <a href="https://www.linkedin.com/in/jfemon/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/jfemon8"><img src="https://img.shields.io/badge/GitHub-jfemon8-black?style=for-the-badge&logo=github"></a>
   <a href="https://bpemon.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome"></a>
@@ -96,13 +101,7 @@
 
 > I’m not just a programmer – I’m a lifelong learner, and I love traveling 🌍✈️
 
----
 
-### 📈 Dynamic GitHub Stats (Auto-Updating via GitHub Actions)
 
-These graphs and stats auto-update daily using GitHub Actions.
 
----
-
-> Made with ❤️ by Emon
 
