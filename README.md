@@ -73,9 +73,11 @@
 
 ---
 
-### 🧩 Featured Projects
+### 🧩 Featured Projects and Thesis
 
 - [📰 AgriBlog](#) – Dynamic Blogging Platform
+- [📰 Thesis](https://github.com/jfemon8/Detecting-Code-Smells-in-Python-Using-Ensemble-Learning-with-Advanced-Resampling-Techniques) – Detecting Code Smells in Python Using Ensemble Learning with
+Advanced Resampling Techniques
 
 ---
 
