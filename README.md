@@ -20,7 +20,7 @@
 ### 🚀 Tech Stack & Tools
 
 ![Languages](https://skillicons.dev/icons?i=cpp,python,php,html,css,js,mysql)
-![Frameworks](https://skillicons.dev/icons?i=tailwind,bootstrap,django,react)
+![Frameworks](https://skillicons.dev/icons?i=tailwind,bootstrap,daisyui,django,react)
 ![Tools](https://skillicons.dev/icons?i=vscode,git,github,figma)
 
 ---
