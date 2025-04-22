@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Allows writing to README.md
+  contents: write
 
 jobs:
   update-readme:
@@ -17,6 +17,6 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update README with GitHub activity
-        uses: Readme-Workflows/activity@v2
+        uses: Readme-Workflows/activity@8719dfc182930640e4e099239d84dfcc05da5f30
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
