@@ -51,6 +51,14 @@
 
 ---
 
+### 📊 My Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfemon8&layout=compact&langs_count=10&theme=dark&hide_border=true" alt="jfemon8's Top Languages" />
+</p>
+
+---
+
 ### 🔥 GitHub Activity
 
 <p align="center">
@@ -105,13 +113,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jfemon8&label=Profile%20views&color=0e75b6&style=flat" alt="jfemon8" />
 </p>
-
----
-
-### 📌 Latest GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 
 
