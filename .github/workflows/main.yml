@@ -2,21 +2,21 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: '0 */1 * * *'  # every hour
+    - cron: '0 */6 * * *'  # every 6 hours
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write  # Needed to commit changes to README
 
 jobs:
   update-readme:
+    name: Update Recent GitHub Activity
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - name: Update README with recent GitHub activity
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: GitHub Activity Section
+        uses: JamesIves/github-activity-readme@v0.2.0
         with:
-          max_post_count: 5
-          feed_list: "https://github.com/jfemon8"  # This can be any valid feed (see note below)
-          custom_title: "📌 Latest GitHub Activity"
+          COMMIT_MSG: "⚡ Update recent GitHub activity"
