@@ -83,6 +83,7 @@
 
 <p align="left">
   <a href="mailto:jfemon8@gmail.com"><img src="https://img.shields.io/badge/Email-jfemon8%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://leetcode.com/u/jfemon8/"><img src="https://img.shields.io/badge/LeetCode-jfemon8-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
   <a href="https://codeforces.com/profile/EmonKhan"><img src="https://img.shields.io/badge/Codeforces-jfemon8-1f8acb?style=for-the-badge&logo=codeforces"></a>
   <a href="https://www.codechef.com/users/jfemon"><img src="https://img.shields.io/badge/CodeChef-jfemon8-5a2f8a?style=for-the-badge&logo=codechef"></a>
   <a href="https://www.hackerrank.com/profile/jfemon8"><img src="https://img.shields.io/badge/HackerRank-jfemon8-2EC866?style=for-the-badge&logo=hackerrank"></a>
@@ -98,6 +99,20 @@
 ### ⚡ Fun Fact
 
 > I’m not just a programmer – I’m a lifelong learner, and I love traveling 🌍✈️
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jfemon8&label=Profile%20views&color=0e75b6&style=flat" alt="jfemon8" />
+</p>
+
+---
+
+### 📌 Latest GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 
 
