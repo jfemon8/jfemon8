@@ -1,0 +1,16 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update GitHub Activity
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub Activity
+        uses: Readme-Workflows/activity@v2
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
