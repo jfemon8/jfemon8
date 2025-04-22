@@ -6,17 +6,17 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Needed to commit changes to README
+  contents: write  # Allows writing to README.md
 
 jobs:
   update-readme:
-    name: Update Recent GitHub Activity
+    name: Update GitHub Activity
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: GitHub Activity Section
-        uses: JamesIves/github-activity-readme@latest
+      - name: Update README with GitHub activity
+        uses: Readme-Workflows/activity@v2
         with:
-          COMMIT_MSG: "⚡ Update recent GitHub activity"
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
