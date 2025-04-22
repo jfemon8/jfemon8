@@ -83,9 +83,9 @@ Advanced Resampling Techniques
 
 ### 🛠 Certifications
 
-- ✅ Certified Intermediate SQL Database Administrator – HackerRank  
-- ✅ Certified Basic Problem Solver – HackerRank  
-- ✅ Certified Web Developer – ICT Division
+- ✅ Certified Intermediate SQL Database Administrator – [HackerRank](https://www.hackerrank.com/certificates/iframe/295b597cf394)  
+- ✅ Certified Basic Problem Solver – [HackerRank](https://www.hackerrank.com/certificates/e55e781f4d1f)  
+- ✅ Certified Web Developer – [ICT Division](https://ledp.ictd.gov.bd/certificate/?regid=328934)
 
 ---
 
