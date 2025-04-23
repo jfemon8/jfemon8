@@ -21,7 +21,7 @@
 
 ![Languages](https://skillicons.dev/icons?i=c,cpp,python,php,html,css,js,mysql)
 ![Frameworks](https://skillicons.dev/icons?i=tailwind,bootstrap,django,react)
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,figma)
+![Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,ai)
 
 ---
 
@@ -66,7 +66,7 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=jfemon8&show_icons=true&theme=tokyonight&hide_rank=true" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=jfemon8&theme=dracula&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jfemon8&theme=dracula&column=8" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jfemon8&theme=tokyo-night" />
 </p>
@@ -75,7 +75,7 @@
 
 ### 🧩 Featured Projects and Thesis
 
-- [📰 AgriBlog](#) – Dynamic Blogging Platform
+- [📰 AgriBlog](https://github.com/jfemon8/Agri-Blog) – Dynamic Blogging Platform
 - [📰 Thesis](https://github.com/jfemon8/Detecting-Code-Smells-in-Python-Using-Ensemble-Learning-with-Advanced-Resampling-Techniques) – Detecting Code Smells in Python Using Ensemble Learning with
 Advanced Resampling Techniques
 
@@ -113,7 +113,7 @@ Advanced Resampling Techniques
 ---
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jfemon8&label=Profile%20views&color=0e75b6&style=flat" alt="jfemon8" />
+  <img src="https://komarev.com/ghpvc/?username=jfemon8&label=Profile%20views&abbreviated=true&color=0e75b6&style=flat" alt="jfemon8" />
 </p>
 
 
