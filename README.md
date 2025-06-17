@@ -13,7 +13,7 @@
 🎓 **CSE Graduate** from the University of Barishal  
 👨‍💻 Love solving problems – **1000+ solved**, 100+ contests  
 💬 Always curious about tech, growth, and new ideas  
-🌍 Based in Gaibandha, Bangladesh
+🌍 Based in Dhaka, Bangladesh
 
 ---
 
