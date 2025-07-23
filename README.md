@@ -19,9 +19,10 @@
 
 ### 🚀 Tech Stack & Tools
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,cs,python,php,html,css,js,mysql)
-![Frameworks](https://skillicons.dev/icons?i=tailwind,bootstrap,django,react)
-![Tools](https://skillicons.dev/icons?i=vscode,git,github,figma,ai)
+![Languages](https://skillicons.dev/icons?i=c,cpp,cs,python,php,html,css,js)
+![Frameworks](https://skillicons.dev/icons?i=tailwind,bootstrap,django,react,dotnet,jquery)
+![Database](https://skillicons.dev/icons?i=mysql)
+![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,ai,firebase)
 
 ---
 
@@ -66,7 +67,7 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=jfemon8&show_icons=true&theme=tokyonight&hide_rank=true" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=jfemon8&theme=dracula&column=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jfemon8&theme=dracula&column=9" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jfemon8&theme=tokyo-night" />
 </p>
