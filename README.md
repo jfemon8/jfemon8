@@ -66,7 +66,7 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=jfemon8&show_icons=true&theme=tokyonight&hide_rank=true" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=jfemon8&theme=dracula&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jfemon8&theme=dracula&column=10" />
   <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jfemon8&theme=tokyo-night" />
 </p>
