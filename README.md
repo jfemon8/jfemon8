@@ -78,7 +78,7 @@
 
 - [📰 QuickQuiz](https://quick-quiz-f4f26.web.app/) – An interactive quiz platform
 - [📰 AgriBlog](https://github.com/jfemon8/Agri-Blog) – Dynamic Blogging Platform
-- [📰 Thesis](http://dx.doi.org/10.13140/RG.2.2.16349.93920) – Detecting Code Smells in Python Using Ensemble Learning with
+- [📰 Thesis](https://doi.org/10.13140/RG.2.2.18124.17282) – Detecting Code Smells in Python Using Ensemble Learning with
 Advanced Resampling Techniques
 
 ---
