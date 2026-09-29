@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#F3C969;">Md Jannatul Ferdhous Emon</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+👨🏻‍💻;Full+Stack+Web+Developer+🖥️;Competitive+Programmer+📊;Traveller+✈️🌍🧳;Lifelong+Learner+%F0%9F%92%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+👨🏻‍💻;Full+Stack+Developer+🖥️;Competitive+Programmer+📊;Traveller+✈️🌍🧳;Lifelong+Learner+%F0%9F%92%AD" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,9 +19,9 @@
 
 ### 🚀 Tech Stack & Tools
 
-![Languages](https://skillicons.dev/icons?i=c,cpp,cs,python,php,html,css,js)
-![Frameworks](https://skillicons.dev/icons?i=tailwind,bootstrap,django,react,dotnet,jquery)
-![Database](https://skillicons.dev/icons?i=mysql)
+![Languages](https://skillicons.dev/icons?i=c,cpp,cs,python,php,html,css,js,ts)
+![Frameworks](https://skillicons.dev/icons?i=tailwind,bootstrap,django,react,dotnet,jquery,nodejs,express)
+![Database](https://skillicons.dev/icons?i=mysql,mongodb)
 ![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,ai,firebase)
 
 ---
@@ -105,7 +105,7 @@ Advanced Resampling Techniques
   <a href="https://www.facebook.com/jfemon"><img src="https://img.shields.io/badge/Facebook-jfemon8-1877F2?style=for-the-badge&logo=facebook"></a>
   <a href="https://www.linkedin.com/in/jfemon/"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/jfemon8"><img src="https://img.shields.io/badge/GitHub-jfemon8-black?style=for-the-badge&logo=github"></a>
-  <a href="https://bpemon.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome"></a>
+  <a href="https://jfemon.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome"></a>
 </p>
 
 ---
