@@ -11,7 +11,7 @@
 ### 👨‍💻 About Me
 
 🎓 **CSE Graduate** from the University of Barishal  
-👨‍💻 Love solving problems – **1000+ solved**, 100+ contests  
+👨‍💻 Love solving problems: **1000+ solved**, 100+ contests  
 💬 Always curious about tech, growth, and new ideas  
 🌍 Based in Dhaka, Bangladesh
 
@@ -112,7 +112,7 @@ Advanced Resampling Techniques
 
 ### ⚡ Fun Fact
 
-> I’m not just a programmer – I’m a lifelong learner, and I love traveling 🌍✈️
+> I’m not just a programmer. I’m a lifelong learner, and I love traveling 🌍✈️
 
 ---
 
